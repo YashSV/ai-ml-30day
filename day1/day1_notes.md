@@ -5,3 +5,5 @@ I also completed the pandas framework basics. I had understanding of the pandas 
 
 I also learnt the EDA - exploratory data anlysis of titanic survivability scenario. I learnt how to read the excel by using read_csv method of pandas. I also learnt the median/average/mean functions I can use to analyse the data. 
 
+Learnt about matplotlib library and Seaborn interface to create static, animated visualization. Seaborn is an interface which is used along with matplotlib to create better visualization. 
+Matplotlib is a library used for creating the basic visualization in python. Matplotlib has figure, which is a complete window or page that contains plot. Axes: which is area where data is represented/plotted. It includes X and Y axes. Pylot Interface: its a style interface.  
